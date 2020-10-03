@@ -1,5 +1,5 @@
-# Collection of Analysis Scripts
-Collection of scripts used to analyse malware or emails
+### Emails Analysis for Malwares
+
 Origins: https://vulnerability.ch/tag/analysis_scripts/ and see the fork source. 
 
 
